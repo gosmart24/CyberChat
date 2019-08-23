@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cyber Chat</string>
+    <string name="welcome">Welcome Back to our Dear Chat App!</string>
+    <string name="usename">\@Usename</string>
+</resources>

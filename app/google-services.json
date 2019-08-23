@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014032302578",
+    "firebase_url": "https://cyberchat-a82b5.firebaseio.com",
+    "project_id": "cyberchat-a82b5",
+    "storage_bucket": "cyberchat-a82b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014032302578:android:525ee502f155d1b3",
+        "android_client_info": {
+          "package_name": "com.cybertech.cyberchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014032302578-u2pume2qoddtv0u8satmt3tv6nv47nch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybertech.cyberchat",
+            "certificate_hash": "21216856364209bcba84d6b36fcea424b5cd90a3"
+          }
+        },
+        {
+          "client_id": "1014032302578-irj7go0b0bma5selid7e3u7lo3s5oee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmxQ4SGpAXDsmRBZ51hrvdEv7GupFD74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014032302578-irj7go0b0bma5selid7e3u7lo3s5oee9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
