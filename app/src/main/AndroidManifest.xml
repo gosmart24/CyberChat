@@ -27,8 +27,9 @@
 
         <activity
             android:name=".HomeActivity"
-            android:label="Home- Cyber Chat" />
-        <activity android:name=".MessageActivity"></activity>
+            android:label="Home" />
+        <activity android:name=".MessageActivity"
+            android:label="Chat Room"></activity>
     </application>
 
 </manifest>
