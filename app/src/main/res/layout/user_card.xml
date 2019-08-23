@@ -6,8 +6,8 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:orientation="horizontal"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
         <de.hdodenhof.circleimageview.CircleImageView
 
@@ -21,15 +21,16 @@
             app:civ_border_width="1dp" />
 
         <TextView
+            android:id="@+id/username_card"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="8dp"
+            android:layout_centerVertical="true"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:textSize="18sp"
-            android:layout_centerVertical="true"
             android:layout_toEndOf="@+id/profile_image"
-            android:text="@string/usename" />
+            android:padding="8dp"
+            android:text="@string/usename"
+            android:textSize="18sp" />
     </RelativeLayout>
 
 
